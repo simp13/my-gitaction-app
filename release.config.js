@@ -1,5 +1,5 @@
 module.exports = {
-    branches: "master",
+    branches: "main",
     repositoryUrl: "https://github.com/simp13/my-gitaction-app",
     plugins: [
         '@semantic-release/commit-analyzer', 
